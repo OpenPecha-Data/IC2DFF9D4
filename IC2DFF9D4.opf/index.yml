@@ -1,0 +1,9 @@
+id: 085f7bb87ebf46079a59e5baa24754e1
+annotation_type: index
+revision: '00001'
+annotations:
+  dd7b2a72cbd34764aac48264dfb86196:
+    base: f674F.txt
+    span:
+      start: 0
+      end: 208
